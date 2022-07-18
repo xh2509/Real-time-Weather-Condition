@@ -1,0 +1,26 @@
+{"Weather":"Mostly Clear","MinTemperature":60.0,"MaxTemperature":81.0,"MinWindSpeed":5.0,"MaxWindSpeed":20.0,"WindDirection":"W"}
+{"Weather":"Mostly Sunny","MinTemperature":33.0,"MaxTemperature":47.0,"MinWindSpeed":0.0,"MaxWindSpeed":5.0,"WindDirection":"W"}
+{"Weather":"Mostly Clear","MinTemperature":70.0,"MaxTemperature":98.0,"MinWindSpeed":5.0,"MaxWindSpeed":10.0,"WindDirection":"WSW"}
+{"Weather":"Sunny","MinTemperature":54.0,"MaxTemperature":72.0,"MinWindSpeed":5.0,"MaxWindSpeed":15.0,"WindDirection":"NW"}
+{"Weather":"Mostly Clear","MinTemperature":49.0,"MaxTemperature":78.0,"MinWindSpeed":8.0,"MaxWindSpeed":17.0,"WindDirection":"S"}
+{"Weather":"Mostly Cloudy","MinTemperature":56.0,"MaxTemperature":83.0,"MinWindSpeed":6.0,"MaxWindSpeed":13.0,"WindDirection":"SSW"}
+{"Weather":"Chance Rain Showers","MinTemperature":48.0,"MaxTemperature":64.0,"MinWindSpeed":5.0,"MaxWindSpeed":16.0,"WindDirection":"NE"}
+{"Weather":"Heavy Rain","MinTemperature":50.0,"MaxTemperature":56.0,"MinWindSpeed":10.0,"MaxWindSpeed":20.0,"WindDirection":"E"}
+{"Weather":"Light Rain","MinTemperature":53.0,"MaxTemperature":64.0,"MinWindSpeed":8.0,"MaxWindSpeed":15.0,"WindDirection":"NE"}
+{"Weather":"Chance Showers And Thunderstorms","MinTemperature":66.0,"MaxTemperature":84.0,"MinWindSpeed":5.0,"MaxWindSpeed":15.0,"WindDirection":"W"}
+{"Weather":"Mostly Clear","MinTemperature":58.0,"MaxTemperature":76.0,"MinWindSpeed":10.0,"MaxWindSpeed":20.0,"WindDirection":"W"}
+{"Weather":"Scattered Rain Showers","MinTemperature":72.0,"MaxTemperature":83.0,"MinWindSpeed":15.0,"MaxWindSpeed":24.0,"WindDirection":"ENE"}
+{"Weather":"Chance Rain Showers","MinTemperature":48.0,"MaxTemperature":70.0,"MinWindSpeed":6.0,"MaxWindSpeed":12.0,"WindDirection":"W"}
+{"Weather":"Slight Chance Rain Showers","MinTemperature":47.0,"MaxTemperature":65.0,"MinWindSpeed":5.0,"MaxWindSpeed":16.0,"WindDirection":"NE"}
+{"Weather":"Clear","MinTemperature":65.0,"MaxTemperature":85.0,"MinWindSpeed":5.0,"MaxWindSpeed":15.0,"WindDirection":"W"}
+{"Weather":"Mostly Cloudy","MinTemperature":51.0,"MaxTemperature":61.0,"MinWindSpeed":6.0,"MaxWindSpeed":16.0,"WindDirection":"NNE"}
+{"Weather":"Clear","MinTemperature":45.0,"MaxTemperature":67.0,"MinWindSpeed":2.0,"MaxWindSpeed":12.0,"WindDirection":"SE"}
+{"Weather":"Partly Sunny","MinTemperature":50.0,"MaxTemperature":65.0,"MinWindSpeed":0.0,"MaxWindSpeed":15.0,"WindDirection":"SE"}
+{"Weather":"Chance Rain Showers","MinTemperature":55.0,"MaxTemperature":71.0,"MinWindSpeed":7.0,"MaxWindSpeed":13.0,"WindDirection":"W"}
+{"Weather":"Mostly Sunny","MinTemperature":36.0,"MaxTemperature":63.0,"MinWindSpeed":5.0,"MaxWindSpeed":10.0,"WindDirection":"NE"}
+{"Weather":"Rain","MinTemperature":52.0,"MaxTemperature":63.0,"MinWindSpeed":9.0,"MaxWindSpeed":17.0,"WindDirection":"E"}
+{"Weather":"Cloudy","MinTemperature":48.0,"MaxTemperature":62.0,"MinWindSpeed":5.0,"MaxWindSpeed":21.0,"WindDirection":"NE"}
+{"Weather":"Mostly Cloudy","MinTemperature":44.0,"MaxTemperature":60.0,"MinWindSpeed":13.0,"MaxWindSpeed":17.0,"WindDirection":"NE"}
+{"Weather":"Sunny","MinTemperature":47.0,"MaxTemperature":71.0,"MinWindSpeed":5.0,"MaxWindSpeed":10.0,"WindDirection":"SE"}
+{"Weather":"Clear","MinTemperature":57.0,"MaxTemperature":78.0,"MinWindSpeed":0.0,"MaxWindSpeed":20.0,"WindDirection":"WNW"}
+{"Weather":"Mostly Clear","MinTemperature":47.0,"MaxTemperature":65.0,"MinWindSpeed":5.0,"MaxWindSpeed":14.0,"WindDirection":"N"}
